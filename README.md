@@ -1,9 +1,5 @@
-# Data Science
 
-
-### Entregáveis
-
-## O problema - Probabilidade do não comparecimento dos pacientes na unidade de atendimento de exames clinicos.
+### O problema - Probabilidade do não comparecimento dos pacientes na unidade de atendimento de exames clinicos.
 
 Todos os agendamentos de exames são feitos previamente pelos canais de atendimento, como telefone ou mensagens. Um dos grandes problemas que atingem a maior parte das empresas de saúde é quando o paciente agenda um exame e não comparece, chamamos esse evento de Noshow.
 
@@ -14,6 +10,8 @@ Para ajudar a resolver este problema propomos um problema de classificação de 
 
 ### Instruções para execução
 
-Em um ambiente virtual de sua preferencia instale os requisitos:
+1. Em um ambiente virtual de sua preferencia instale os requisitos:
 
 `$ pip install -r requirements.txt`
+
+2. Explore os notebooks para compreender as análises exploratórias e a contrução dos modelos
